@@ -1,4 +1,4 @@
-package String.대소문자변환;
+package String;
 
 import java.util.Scanner;
 
